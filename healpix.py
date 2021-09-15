@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 
-"""healpix.py: Generator of HEALPix grid"""
+"""healpix.py: Generator of HEALPix mesh"""
 
-__author__  = "S. Brdar, ECMWF"
+__author__  = "slavko.brdar@gmail.com"
 
 
 import matplotlib.pyplot as plt
